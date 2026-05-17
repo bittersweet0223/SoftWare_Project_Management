@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <string>
-
+//B2修改
 int main() {
     try {
         std::cout << "\033[1;34m";
